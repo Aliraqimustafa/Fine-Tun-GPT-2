@@ -32,7 +32,7 @@ To implement this project on your computer, follow these steps:
    pip install transformers
    ```
 4. Download the SQuAD v2 dataset from [here](https://www.kaggle.com/datasets/studentmustafaai/datasets-squad-20) and place it in a directory of your choice.
-5. Open the main.py file and set the path variable to the directory containing the SQuAD v2 dataset.
+5. Open the ```main.py``` file and set the path variable to the directory containing the SQuAD v2 dataset.
 6. run python :
    ```bash
    python main.py

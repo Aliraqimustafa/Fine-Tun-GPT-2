@@ -19,7 +19,22 @@ If you're looking for a swift way to implement this project, follow these steps:
 
 To implement this project on your computer, follow these steps:
 
-1. Install the required dependencies by running:
+1. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/Aliraqimustafa/Fine-Tun-GPT-2/.git
+   ```
+2. Navigate to the cloned directory:
+   ```bash
+   cd Fine-Tun-GPT-2
+   ```
+3. Install the required dependencies by running:
    ```bash
    pip install transformers
-```
+   ```
+4. Download the SQuAD v2 dataset from here and place it in a directory of your choice.
+5. Open the main.py file and set the path variable to the directory containing the SQuAD v2 dataset.
+6. run python :
+   ```bash
+   python main.py
+   ```
+ 

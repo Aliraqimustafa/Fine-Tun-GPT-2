@@ -38,3 +38,5 @@ To implement this project on your computer, follow these steps:
    python main.py
    ```
  
+## Contributing
+Contributions to this project are welcome! If you have suggestions, improvements, or bug fixes, feel free to submit a pull request.

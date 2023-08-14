@@ -40,3 +40,8 @@ To implement this project on your computer, follow these steps:
  
 ## Contributing
 Contributions to this project are welcome! If you have suggestions, improvements, or bug fixes, feel free to submit a pull request.
+## Stay Connected
+
+Feel free to connect with me on Facebook for updates and discussions related to this project:
+
+[Follow me on Facebook](https://www.facebook.com/100049592914479)
